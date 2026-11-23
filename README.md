@@ -1,8 +1,8 @@
 # csv-reader-wasm-simd
 
-[![make.fun competition](https://img.shields.io/badge/make.fun-csv--reader--speed--01--run--20261121-8A2BE2)](https://make.fun/bounty/csv-reader-speed-01-run-20261121)
-[![make.fun rank](https://img.shields.io/badge/make.fun-rank-8A2BE2)](https://make.fun/bounty/csv-reader-speed-01-run-20261121)
-[![make.fun reward](https://img.shields.io/badge/make.fun-reward-8A2BE2)](https://make.fun/bounty/csv-reader-speed-01-run-20261121)
+[![make.fun · csv-reader-speed-01-run-20261121](https://make.fun/badge/csv-reader-speed-01-run-20261121.svg)](https://make.fun/bounty/csv-reader-speed-01-run-20261121?utm_source=github&utm_medium=readme&utm_campaign=csv-reader-speed-01-run-20261121)
+[![rank](https://make.fun/badge/csv-reader-speed-01-run-20261121/muhamadfajar160299-ctrl/csv-reader-wasm-simd/rank.svg)](https://make.fun/bounty/csv-reader-speed-01-run-20261121/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=csv-reader-speed-01-run-20261121)
+[![reward](https://make.fun/badge/csv-reader-speed-01-run-20261121/muhamadfajar160299-ctrl/csv-reader-wasm-simd/reward.svg)](https://make.fun/bounty/csv-reader-speed-01-run-20261121?utm_source=github&utm_medium=readme&utm_campaign=csv-reader-speed-01-run-20261121)
 
 A fast CSV reader for the [make.fun csv-reader-speed competition](https://make.fun/bounty/csv-reader-speed-01-run-20261121): `solve.js` answers exactly like csv-reader 1.0.0 for `{text, header}` → `{columns, rows, errors}`, with the heavy scanning done in WebAssembly compiled from Rust using 128-bit SIMD.
 
